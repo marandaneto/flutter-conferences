@@ -15,19 +15,18 @@ example, `my-cool-conference-2016.md`).
 The contents of the file should use the following template:
 ```
 ---
-name: "Droidcon"
-website: http://uk.droidcon.com/2015/
-location: London, UK
-status: Canceled/Postponed  # Optional, will show up in red if provided
-online: true                # Optional, for online-only events.
+name: "Flutter Friends"
+website: https://www.flutterfriends.dev/
+location: Stockholm, Sweden
+online: false
 
-date_start: 2015-10-29
-date_end:   2015-10-30
+date_start: 2023-09-03
+date_end:   2023-09-05
 
-cfp:  # Optional
-  start: 2015-06-16
-  end:   2015-07-21
-  site: http://uk.droidcon.com/2015/lineup-2015/ # Optional, will default to website
+cfp:
+  start: 2023-01-01
+  end:   2023-06-10
+  site: https://airtable.com/shrnDA3TEqc9zS5qb
 ---
 ```
 
