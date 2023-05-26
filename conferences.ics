@@ -1,10 +1,10 @@
 ---
 layout: none
-uid_prefix: https://github.com/androidstudygroup/conferences/tree/gh-pages/
+uid_prefix: https://github.com/marandaneto/flutter-conferences/tree/gh-pages/
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:https://androidstudygroup.github.io/conferences/
+PRODID:https://marandaneto.github.io/flutter-conferences/
 METHOD:PUBLISH
 {%- for conference in site.conferences -%}
 {%- if conference.status == null %}

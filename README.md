@@ -1,7 +1,7 @@
 Conferences
 ===========
 
-A community-curated list of conferences around the world for Android developers.
+A community-curated list of conferences around the world for Flutter developers.
 
 
 Adding a conference
@@ -35,7 +35,7 @@ cfp:  # Optional
 
 ### Online-only events
 
-For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](http://androidstudygroup.github.io/conferences/online.html) page.
+For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](https://marandaneto.github.io/flutter-conferences/online.html) page.
 
 
 Running locally
