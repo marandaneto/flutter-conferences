@@ -1,6 +1,6 @@
 ---
 name: "Flutter Friends"
-website: https://www.flutterfriends.dev/
+website: https://www.flutterfriends.dev
 location: Stockholm, Sweden
 online: false
 

@@ -1,6 +1,6 @@
 ---
 name: "Flutter Connection"
-website: https://flutterconnection.io/
+website: https://flutterconnection.io
 location: Paris, France
 online: false
 
