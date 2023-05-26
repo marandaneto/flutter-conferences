@@ -40,7 +40,7 @@ For online only events please set `online: true` in the template. They will show
 
 Running locally
 ---------------
-![Build Jekyll Pages](https://github.com/AndroidStudyGroup/conferences/workflows/Build%20Jekyll%20Pages/badge.svg)
+![Build Jekyll Pages](https://github.com/marandaneto/flutter-conferences/workflows/Build%20Jekyll%20Pages/badge.svg)
 
 ```
 bundle install --path vendor/bundle
