@@ -4,7 +4,7 @@ uid_prefix: https://github.com/marandaneto/flutter-conferences/tree/gh-pages/
 ---
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:https://marandaneto.github.io/flutter-conferences/
+PRODID:https://www.flutterconferences.com/
 METHOD:PUBLISH
 {%- for conference in site.conferences -%}
 {%- if conference.status == null %}

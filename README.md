@@ -34,7 +34,7 @@ cfp:
 
 ### Online-only events
 
-For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](https://marandaneto.github.io/flutter-conferences/online.html) page.
+For online only events please set `online: true` in the template. They will show up in the _Upcoming_ page as well as in the [Online-only](https://www.flutterconferences.com/online.html) page.
 
 
 Running locally
