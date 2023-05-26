@@ -8,6 +8,7 @@ date_start: 2023-09-03
 date_end:   2023-09-05
 
 cfp:
+  start: 2023-01-01
   end:   2023-06-10
   site: https://airtable.com/shrnDA3TEqc9zS5qb
 ---
