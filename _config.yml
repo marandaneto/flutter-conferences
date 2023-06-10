@@ -8,5 +8,5 @@ plugins:
 - jekyll-feed
 
 feed:
-collections:
-- conferences
+  collections:
+  - conferences
