@@ -6,3 +6,7 @@ collections:
 
 plugins:
 - jekyll-feed
+
+feed:
+collections:
+- conferences
