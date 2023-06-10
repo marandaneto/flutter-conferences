@@ -3,3 +3,6 @@ markdown: kramdown
 
 collections:
 - conferences
+
+plugins:
+- jekyll-feed
