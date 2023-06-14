@@ -3,3 +3,10 @@ markdown: kramdown
 
 collections:
 - conferences
+
+plugins:
+- jekyll-feed
+
+feed:
+  collections:
+  - conferences
