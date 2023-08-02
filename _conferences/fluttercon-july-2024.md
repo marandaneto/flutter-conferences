@@ -4,8 +4,8 @@ website: https://fluttercon.dev
 location: Berlin, Germany
 online: false
 
-date_start: 2023-07-03
-date_end:   2023-07-05
+date_start: 2024-07-03
+date_end:   2024-07-05
 
 cfp:
   start: 2024-01-01
