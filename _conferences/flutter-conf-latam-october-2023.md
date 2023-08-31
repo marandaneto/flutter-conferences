@@ -9,6 +9,6 @@ date_end:   2023-10-26
 
 cfp:
   start: 2023-01-01
-  end:   2023-09-01
+  end:   2023-07-31
   site: https://docs.google.com/forms/d/e/1FAIpQLSd9DRutDGzKcKUcwLh103oRIBQw3cppEqBYAR5IfAmbAage9g/viewform
 ---
