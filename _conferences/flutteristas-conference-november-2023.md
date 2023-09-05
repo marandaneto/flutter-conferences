@@ -1,6 +1,6 @@
 ---
 name: "Flutteristas Conference"
-website: https://twitter.com/FlutteristasCon
+website: https://flutteristas.org/flutteristas-conference
 location: Online
 online: true
 
