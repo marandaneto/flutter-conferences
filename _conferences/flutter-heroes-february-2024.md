@@ -2,7 +2,7 @@
 name: "Flutter Heroes"
 website: https://flutterheroes.com/2024/
 location: Turin, Italy
-online: true
+online: false
 
 date_start: 2024-02-23
 date_end:   2024-03-23
