@@ -2,7 +2,7 @@
 name: "Flutter Global Summit"
 website: https://events.geekle.us/flutter24/
 location: Online
-online: Online
+online: true
 
 date_start: 2024-02-06
 date_end:   2023-02-07
