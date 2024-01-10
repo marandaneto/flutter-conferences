@@ -4,8 +4,8 @@ website: https://events.geekle.us/flutter24/
 location: Online
 online: true
 
-date_start: 2024-02-06
-date_end:   2024-02-07
+date_start: 2024-02-27
+date_end:   2024-02-28
 
 cfp:
   start: 2023-12-01
