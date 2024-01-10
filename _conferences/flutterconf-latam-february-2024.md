@@ -4,8 +4,8 @@ website: https://peru.flutterconflatam.dev/
 location: Arequipa, Perú
 online: false
 
-date_start: 2024-02-27
-date_end:   2024-02-27
+date_start: 2024-02-17
+date_end:   2024-02-17
 
 cfp:
   start: 2024-01-01
