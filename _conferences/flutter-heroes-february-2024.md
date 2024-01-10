@@ -5,7 +5,7 @@ location: Turin, Italy
 online: false
 
 date_start: 2024-02-23
-date_end:   2024-03-23
+date_end:   2024-02-23
 
 cfp:
   start: 2022-11-01
