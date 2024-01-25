@@ -9,5 +9,5 @@ date_end:   2024-05-14
 cfp:
   start: 2024-01-01
   end:   2024-03-20
-  site: [https://www.flutterbytesconf.com/](https://forms.gle/aYrcS3dJFZxQW3Eu6)https://forms.gle/aYrcS3dJFZxQW3Eu6
+  site: https://forms.gle/aYrcS3dJFZxQW3Eu6
 ---
