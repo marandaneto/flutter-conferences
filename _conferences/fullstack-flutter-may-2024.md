@@ -3,8 +3,8 @@ name: "Full Stack Flutter"
 website: https://fullstackflutter.dev/
 online: true
 
-date_start: 2023-11-04
-date_end:   2023-11-04
+date_start: 2024-05-14
+date_end:   2024-05-14
 
 cfp:
   start: 2024-01-01
