@@ -1,6 +1,7 @@
 ---
 name: "Full Stack Flutter"
 website: https://fullstackflutter.dev/
+location: Online
 online: true
 
 date_start: 2024-05-14
