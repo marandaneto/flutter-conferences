@@ -1,6 +1,6 @@
 ---
 name: "Full Stack Flutter"
-website: https://www.flutterbytesconf.com/](https://fullstackflutter.dev/
+website: https://fullstackflutter.dev/
 online: true
 
 date_start: 2023-11-04
