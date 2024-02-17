@@ -8,7 +8,7 @@ date_start: August/September
 date_end:   August/September
 
 cfp:
-  start: TBA
-  end:   TBA
+  start: 2024-09-01
+  end:   2024-09-03
   site: TBA
 ---
