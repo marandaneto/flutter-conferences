@@ -5,10 +5,10 @@ location: Turin, Italy
 online: false
 
 date_start: 2024-02-23
-date_end:   2024-03-23
+date_end:   2024-02-23
 
 cfp:
-  start: 2022-11-01
+  start: 2023-11-01
   end:   2023-12-04
   site: https://papers.synesthesia.it/flutter-heroes-2024/cfp
 ---
