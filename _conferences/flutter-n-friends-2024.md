@@ -10,5 +10,5 @@ date_end:   2024-09-03
 cfp:
   start: 2024-09-01
   end:   2024-09-03
-  site: TBA
+  site: https://www.flutterfriends.dev/
 ---
