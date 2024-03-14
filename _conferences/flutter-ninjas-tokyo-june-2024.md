@@ -1,6 +1,6 @@
 ---
 name: "Flutter Ninjas"
-website: https://twitter.com/FlutterNinjas
+website: https://flutterninjas.dev
 location: Tokyo, Japan
 online: false
 
@@ -8,7 +8,7 @@ date_start: 2024-06-13
 date_end:   2024-06-14
 
 cfp:
-  start: 2024-06-13
-  end:   2024-06-14
-  site: https://twitter.com/FlutterNinjas
+  start: 2024-03-18
+  end:   2024-04-17
+  site: https://sessionize.com/flutterninjas-2024/
 ---
