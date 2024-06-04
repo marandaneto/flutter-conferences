@@ -1,7 +1,7 @@
 ---
 name: "droidcon Kenya"
 website: https://droidcon.co.ke/
-location: Kenya
+location: Nairobi, Kenya
 online: false
 
 date_start: 2024-11-06
