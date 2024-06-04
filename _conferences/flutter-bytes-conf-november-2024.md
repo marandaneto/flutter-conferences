@@ -1,7 +1,7 @@
 ---
 name: "Flutter Bytes Conference"
 website: https://www.flutterbytesconf.com/
-location: IS COMING SOON...
+location: Lagos, Nigeria
 online: false
 
 date_start: 2023-11-01
