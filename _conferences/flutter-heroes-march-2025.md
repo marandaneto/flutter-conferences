@@ -4,8 +4,8 @@ website: https://flutterheroes.com/2025/
 location: Turin, Italy
 online: false
 
-date_start: 2024-03-12
-date_end:   2024-03-12
+date_start: 2025-03-12
+date_end:   2025-03-12
 
 cfp:
   start: 2024-10-01
