@@ -1,6 +1,6 @@
 ---
 name: "Flutteristas Conference 2025"
-website: https://flutteristas.org/
+website: https://flutteristas.org/flutteristas-conference/2025
 location: Online
 online: true
 
