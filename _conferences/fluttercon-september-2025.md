@@ -10,5 +10,5 @@ date_end:   2025-09-26
 cfp:
   start: 2025-02-01
   end:   2025-05-01
-  site: https://sessionize.com/flutterconeurope-2025/
+  site:  https://sessionize.com/fluttercon-europe-2025/
 ---
