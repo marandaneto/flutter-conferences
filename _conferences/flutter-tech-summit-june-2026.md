@@ -7,7 +7,6 @@ online: false
 date_start: 2026-06-09
 date_end:   2026-06-09
 
-
 cfp:
   start: 2026-01-01
   end:   2026-01-01
